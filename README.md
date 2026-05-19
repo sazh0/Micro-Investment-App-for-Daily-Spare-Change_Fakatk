@@ -17,7 +17,7 @@ A micro-investment app that turns your **everyday spare change** into a driver f
 
 **🏆 Third Place Winner — Investment Track, Aseer Innovates Hackathon 2025**
 <br/>
-<sub>Out of +2,500 participants · Issued by Aseer Development Authority</sub>
+<sub>Out of +10,000 participants · Issued by Aseer Development Authority</sub>
 
 </div>
 
@@ -50,7 +50,6 @@ The result? A **larger, more diverse investment community** where anyone can par
 | **ML Recommendation Engine** | Weekly AI-powered suggestions to adjust investment type and risk level based on user activity |
 | **Rule-Based Recommendations** | Structured logic layer for consistent, transparent investment guidance |
 | **Open Banking Integration** | Securely accesses transaction history to calculate spare change with precision |
-| **Returns to Users** | Investment returns flow directly back into user accounts |
 
 ---
 
@@ -59,11 +58,9 @@ The result? A **larger, more diverse investment community** where anyone can par
 | Metric | Value |
 |:--|:--|
 | Hackathon Result | **🥉 3rd Place** — Investment Track, Aseer Innovates 2025 |
-| Participants Competing | **+2,500** |
+| Participants Competing | **+10,000** |
 | POS Transactions Analyzed (27 days) | **+890,000** |
-| Unused Halalas Identified | **+400,000** |
 | Projected Monthly Collection (10K users) | **+100,000 SAR** |
-| Local Sectors Supported | **+5 sectors** |
 
 > With just **10,000 users** each contributing **0.5 SAR** per 20 monthly purchases, Fakatk can channel over **100,000 SAR/month** directly into local investments that strengthen Aseer's economy.
 
@@ -77,7 +74,6 @@ The result? A **larger, more diverse investment community** where anyone can par
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Open_Banking-0a6847?style=for-the-badge" alt="Open Banking"/>
   <img src="https://img.shields.io/badge/ML_Recommendation-7c3aed?style=for-the-badge" alt="ML"/>
-  <img src="https://img.shields.io/badge/OAuth2_&_HTTPS-e05d44?style=for-the-badge" alt="Security"/>
 </p>
 
 | Layer | Technology | Role |
@@ -87,7 +83,6 @@ The result? A **larger, more diverse investment community** where anyone can par
 | **Financial Integration** | Open Banking API | Secure access to user transaction history & spend tracking |
 | **AI / ML** | ML Recommendation Model | Weekly personalized investment type & risk suggestions |
 | **Logic Layer** | Rule-Based Recommendation System | Structured investment guidance based on user thresholds |
-| **Security** | HTTPS, OAuth2 | Encrypted data transfer & secure authentication |
 
 ---
 
@@ -142,8 +137,6 @@ The result? A **larger, more diverse investment community** where anyone can par
 &nbsp;
 <img src="https://img.shields.io/badge/+1-Financial_API-0a6847?style=flat-square&labelColor=1a1a2e" alt="Open Banking"/>
 &nbsp;
-<img src="https://img.shields.io/badge/+2-Security_Protocols-e05d44?style=flat-square&labelColor=1a1a2e" alt="Security"/>
-&nbsp;
-<img src="https://img.shields.io/badge/+8-Technologies_Total-1a1a2e?style=flat-square&labelColor=e05d44" alt="Total"/>
+<img src="https://img.shields.io/badge/+6-Technologies_Total-1a1a2e?style=flat-square&labelColor=e05d44" alt="Total"/>
 
 </div>
