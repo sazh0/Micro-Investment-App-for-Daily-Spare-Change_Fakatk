@@ -127,7 +127,7 @@ The result? A **larger, more diverse investment community** where anyone can par
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/+1-Language-E8912D?style=flat-square&labelColor=1a1a2e" alt="Languages"/>
+<img src="https://img.shields.io/badge/+2-Language-E8912D?style=flat-square&labelColor=1a1a2e" alt="Languages"/>
 &nbsp;
 <img src="https://img.shields.io/badge/+1-Framework-61DAFB?style=flat-square&labelColor=1a1a2e" alt="Framework"/>
 &nbsp;
