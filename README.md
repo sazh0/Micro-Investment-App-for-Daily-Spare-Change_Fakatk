@@ -13,7 +13,7 @@
   &nbsp;
 </p>
 
-A micro-investment app that turns your **everyday spare change** into a driver for Aseer's local economy. Every halala counts — round up your purchases, invest locally, and watch your community grow.
+A micro-investment app that turns your **everyday spare change** into a driver for Aseer's local economy. Every halala counts, round up your purchases, invest locally, and watch your community grow.
 
 **🏆 Third Place Winner — Investment Track, Aseer Innovates Hackathon 2025**
 <br/>
