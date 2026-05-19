@@ -91,7 +91,7 @@ The result? A **larger, more diverse investment community** where anyone can par
 ```
 ┌─────────────────────────────────────────────────┐
 │          Mobile App (React Native)              │
-│    Round-Up Wallet · Portfolio · Investments     │
+│    Round-Up Wallet · Portfolio · Investments    │
 └──────────────────────┬──────────────────────────┘
                        │
           ┌────────────▼────────────┐
@@ -112,8 +112,8 @@ The result? A **larger, more diverse investment community** where anyone can par
               └────────┬────────┘
                        │
          ┌─────────────▼─────────────┐
-         │   Firebase Cloud Backend   │
-         │ Users · Wallets · Partners │
+         │   Firebase Cloud Backend  │
+         │ Users · Wallets · Partners│
          └───────────────────────────┘
                        │
          ┌─────────────▼─────────────┐
